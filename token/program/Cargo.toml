@@ -21,7 +21,7 @@ solana-program = { git = "https://github.com/solana-labs/solana.git", tag = "v1.
 thiserror = "1.0"
 
 [dev-dependencies]
-solana-program-test = { git = "https://github.com/solana-labs/solana.git", tag = "v1.8.7" }
+solana-program-test = { git = "https://github.com/solana-labs/solana.git", tag = "v1.9.1" }
 solana-sdk = { git = "https://github.com/solana-labs/solana.git", tag = "v1.8.7" }
 
 [lib]
